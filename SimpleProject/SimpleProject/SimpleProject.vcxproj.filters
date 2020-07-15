@@ -78,5 +78,17 @@
     <ClCompile Include="LocalVariable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="static.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxMin.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
