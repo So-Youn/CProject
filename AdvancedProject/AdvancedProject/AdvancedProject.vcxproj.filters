@@ -78,5 +78,17 @@
     <ClCompile Include="05_DimArray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="DoublePointer01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublePointer02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublePointer03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublePointer04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
